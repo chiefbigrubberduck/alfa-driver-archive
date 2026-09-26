@@ -16,7 +16,7 @@ An archive of the earliest drivers for Alfa/Realtek cards, ca. 2000-2014, with L
 - [Alfa AWUS036NEH](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NEH_linux.tar.gz)
 - [Alfa AWUS036NH](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NH_linux.tar.gz)
 - [Alfa AWUS036NHL](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NHL_linux.tar.gz)
-- [Alfa AWUS036NHR v2](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NHR v2.tar.gz)
+- [Alfa AWUS036NHR v2](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NHR%20v2.tar.gz)
 - [Alfa AWUS036NHV](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS036NHV_linux.tar.gz)
 - [Alfa AWUS051NH v2](https://github.com/chiefbigrubberduck/alfa-driver-archive/raw/main/drivers/linux/AWUS051NH-v2_linux.tar.gz)
 - [Alfa AWUS052NH](https://github.com/chiefbigrubberduck/alfa-driver-archive/)
